@@ -1,3 +1,5 @@
+# clojure-defs:
+
 0. prefix notation <-> Polish notation:
 1. expressions/functions (def, defn, fn - annonymous fs)
 2. functions
