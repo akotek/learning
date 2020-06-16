@@ -2,7 +2,7 @@
 
 Do this:
 1. finish [clojure-awesome-MOOC](http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html) -> answers in clj/mooc
-2. verify you understand all the defs in 'defs' file!
+2. verify you understand all the defs in [the-defs](https://github.com/akotek/learning/blob/master/clj/defs.md)!
 3. take a look on resources 
 
 
