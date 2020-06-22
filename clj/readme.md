@@ -8,6 +8,7 @@ Do this:
 5. read [clojure-destructing](https://gist.github.com/john2x/e1dca953548bfdfb9844)
 6. check clojure-cheat-sheet/clojure-style-guide
 7. read [stuart-sierra-how-to-name-stuff](https://stuartsierra.com/2016/01/09/how-to-name-clojure-functions)
+8. read [clojure-code-smells](https://bsless.github.io/code-smells/)
 
 
 # resources:
@@ -15,3 +16,4 @@ Do this:
 2. [clojure-cheat-sheet](https://clojure.org/api/cheatsheet)
 3. [clojure-styling-guide](https://guide.clojure.style/)
 4. clojure-cool-community: [clojureverse](https://clojureverse.org/)
+5. [clojure-code-smells](https://bsless.github.io/code-smells/)
