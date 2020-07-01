@@ -1,8 +1,8 @@
 ## Learn clojure like this:
 
 Do this:
-1. finish [clojure-awesome-MOOC](http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html) -> answers [here](/clj/ans)
-2. verify you understand all the defs in [the-defs](https://github.com/akotek/learning/blob/master/clj/defs.md)!
+1. finish [clojure-awesome-MOOC](http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html) -> answers [here](/onboarding/clj/ans)
+2. verify you understand all the defs in [the-defs](https://github.com/akotek/learning/blob/master/onboarding/clj/defs.md)!
 3. read awesome [clojure for the brave & true](https://www.braveclojure.com/clojure-for-the-brave-and-true/) part1, part2.
 4. read [clojure-destructing](https://gist.github.com/john2x/e1dca953548bfdfb9844)
 5. watch [clojure-enemey-of-the-state](https://youtu.be/qe60zwUAOqE)
