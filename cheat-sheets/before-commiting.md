@@ -1,4 +1,4 @@
-before commitinGG!!
+# behold before commit!!
 
 1. easy to extend?
 2. does only what it needs to do?
