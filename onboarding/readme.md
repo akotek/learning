@@ -10,5 +10,5 @@ do all below:
 
 ### timeline:
 1. first week: 1,3,4
-2. second week: 2,3,5,6
+2. second week: 2,3,5
 3. third week: begin
