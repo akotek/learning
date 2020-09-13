@@ -1,10 +1,10 @@
 ## architecture & system:
 1. enviornments, servers, services:
-  * okapi- 2x prod, 1x staging
-  * a-agent - 2x prod, 1x staging
-  * nyala - 1x prod
-  * tardigrade (be/fe) - 1x prod
-  * qlindex (awesomo) - 1x prod
+  * okapi- 2x prod, 1x staging = web backend
+  * a-agent - 2x prod, 1x staging = web front
+  * nyala - 1x prod = TRACKING
+  * tardigrade (be/fe) - 1x prod = AGENTS TOOL
+  * qlindex (awesomo) - 1x prod = QL backend
   * quotodian - 1x prod
 2. commit flow
 3. AWS services
