@@ -5,7 +5,7 @@
 * **parallel work**: 'coding bootcamp' (clojure/react basic exercises) & sproutt task/s (bug, refactoring, small feature)
 * **validation-meetings (2x a week)** (1:1 with dev, validate knowledge & support in the context of given exercises)
 * **assigned mentor**: work closely with the new hire (define schedule, mentor 1:1, code review)
-* **2-3x weeks should be enough to start delivering**
+* **2-3x weeks**
 
 
 ## timeline:
