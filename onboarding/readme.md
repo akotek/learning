@@ -1,13 +1,13 @@
 # Sproutts on-boarding plan!!
 
 
-### rational:
+## rational:
 * **parallel work**: 'coding bootcamp' (some general exercises: clojure/react) & product tasks (refactoring, bug, some simple feature)
 * **weekly validation-meetings** (1:1 with dev, validate knowledge / support using given exercises)
 * **3x weeks should be enough to start delivering**
 
 
-### timeline:
+## timeline:
 If front oriented - replace Clojure with Front
 | **Sun**                             | **Mon**                                  | **Tues**                | **Wed**                                  | **Thus**                 |
 |---------------------------------|--------------------------------------|----------------------|--------------------------------------|----------------------|
