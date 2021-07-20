@@ -2,15 +2,14 @@
 
 
 ## rational:
-* **parallel work**: 'coding bootcamp' (some general exercises: clojure/react) & product tasks (refactoring, bug, some simple feature)
-* **weekly validation-meetings** (1:1 with dev, validate knowledge / support using given exercises)
-* **3x weeks should be enough to start delivering**
+* **parallel work**: 'coding bootcamp' (clojure/react basic exercises) & sproutt task/s (bug, refactoring, small feature)
+* **validation-meetings (2x a week)** (1:1 with dev, validate knowledge & support in the context of given exercises)
+* **assigned mentor**: work closely with the new hire (define schedule, mentor 1:1, code review)
+* **2-3x weeks should be enough to start delivering**
 
 
 ## timeline:
 If front oriented - replace Clojure with Front
-
-**Product**: [adi, Liza, Inna], **Architecture**: [adi, Royi, Aviv], **UI**: [Royi, Hed], **BE**: [Royi, Aviv]
 
 | **Sun**                             | **Mon**                                  | **Tues**                | **Wed**                                  | **Thus**                 |
 |---------------------------------|--------------------------------------|----------------------|--------------------------------------|----------------------|
@@ -20,6 +19,7 @@ If front oriented - replace Clojure with Front
 | **Sun**                         | **Mon**                              | **Tues**             | **Wed**                              | **Thus**             |
 | Task, Front, Architecture #2    | Task, Front, 1:1                     | Task, Front          | Task, Clojure                        | END!!                |
 
+* Use: **Product**: [adi, Liza, Inna], **Architecture**: [adi, Royi, Aviv], **UI**: [Royi, Hed], **BE**: [Royi, Aviv]
 
 ## do:
 1. **clojure**: [do](clj)
