@@ -1,14 +1,25 @@
-# simple on boarding:
+# Sproutts on-boarding plan!!
 
-do all below:
+
+### rational:
+* **parallel work**: 'coding bootcamp' (some general exercises: clojure/react) & product tasks (refactoring, bug, some simple feature)
+* **weekly validation-meetings** (1:1 with dev, validate knowledge / support using given exercises)
+* **3x weeks should be enough to start delivering**
+
+
+### timeline:
+If front oriented - replace Clojure with Front
+| **Sun**                             | **Mon**                                  | **Tues**                | **Wed**                                  | **Thus**                 |
+|---------------------------------|--------------------------------------|----------------------|--------------------------------------|----------------------|
+| Logistics, install mac tools    | Clojure, okapi, 1:1                  | Clojure              | Clojure, Product #1, Architecture #1 | Clojure, pomona, 1:1 |
+| **Sun**                         | **Mon**                              | **Tues**             | **Wed**                              | **Thus**             |
+| Clojure, Product #2             | Clojure, start task, 1:1 pomona      | Task, Product #2     | Task, Clojure                        | Task, 1:1            |
+| **Sun**                         | **Mon**                              | **Tues**             | **Wed**                              | **Thus**             |
+| Task, Front, Architecture #2    | Task, Front, 1:1                     | Task, Front          | Task, Clojure                        | END!!                |
+| Product: [adi, Liza, Inna] | Architecture: [adi, Royi, Aviv] | UI: [Royi, Hed] | BE: [Royi, Aviv]                | Mentoring: Hed (UI), Aviv (BE)|
+
+do:
 
 1. **clojure**: [do](clj)
 2. **front-end**: [do](front)
-3. **product/architecture/system/logistics**: [do](misc) -- read all .md files
-4. setup **product-overview sessions** (2x sessions with: qa, dev's, pm)
-5. setup server/client and **architecture-overview sessions** (1x server&architecture session, 1x client session with: dev's, team-lead)
-
-### timeline:
-1. first week: 1,3,4
-2. second week: 2,3,5
-3. third week: begin
+3. **product/architecture/system/logistics**: [do](misc)
