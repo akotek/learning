@@ -2,8 +2,8 @@
 
 do:
 
-1. products-arch
-2. logistics
+1. [logistics](logistics.md)
+2. [product stuff / architecture](product-arch.md)
 
 ### core technical-topics:
 1. Clojure
@@ -14,4 +14,3 @@ do:
 6. Amazon Services (RDS, CloudFront, Lambda)
 7. Docker
 8. MongoDB
-9. Kubernetes
