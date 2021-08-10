@@ -37,10 +37,12 @@ Given X>1 .txt documents, do (1,2), but it should be fast.
 2. _ at start, _ at end (trim)
 3. can be duplicates on code (hashmap)
 4. LowerCase/UpperCase
-5. Split (with _) aka Tokenization
-6. Reading / closing file
-7. Time complexity: let w = #of_words, O(w), sorting is neglible
-8. Threads: file-per-thread VS thread-pool
+5. Split (with _) regex? aka tokenization, what are the other options?
+6. Reading / closing file - with open? Buffered in Java etc?
+7. Comparator : what is it ?
+8. Time complexity: let w = #of_words, O(w), sorting is neglible
+9. Threads: file-per-thread VS thread-pool
+10. Threads: how do you do it in Java?
 
 **sources:**
 1. Taboola mid-senior dev's home task
