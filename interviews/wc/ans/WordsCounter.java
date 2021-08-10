@@ -22,7 +22,7 @@ public class WordsCounter {
     private void updateFreqs(String fp) throws IOException {
         try (Stream<String> stream = Files.lines(Paths.get(fp))) {
             stream
-                    .map(line -> line.trim().split("_+"))
+                    .map(line -> line.split("_+"))
                     .flatMap(arr -> Stream.of(arr))
                     .forEach(s -> counts.computeIfAbsent(s.toLowerCase(), k -> new AtomicLong())
                                         .getAndIncrement());
