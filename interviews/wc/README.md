@@ -40,7 +40,7 @@ Given X>1 .txt documents, do (1,2), but it should be fast.
 5. Split (with _) aka Tokenization
 6. Reading / closing file
 7. Time complexity: let w = #of_words, O(w), sorting is neglible
-8. Thread pool
+8. Threads: file-per-thread VS thread-pool
 
 **sources:**
 1. Taboola mid-senior dev's home task
