@@ -23,6 +23,6 @@
       {} (line-seq rdr))))
 
 
-(def fp "src/exercises/words")
+(def fp "words")
 (sort-by val > (wc1 fp))
 (wc2 fp)
