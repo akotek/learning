@@ -1,6 +1,6 @@
-### **Word Counter:**
+# Word Counter:
 
-**Part1:**
+## Part1:
 
 Given 1x .txt document with english words separated by [_], print word count and total count
 
@@ -21,15 +21,26 @@ notes:
 2. methods should be written correctly with return values, types, etc
 
 
-**Part2:**
+## Part2:
 
-Print part 1 but in decreasing order (by most frequent)
+Print part 1 but in decreasing/ascending order - depend on given String ``["desc"/"asc"]``
 
-**Part3:**
+## Part3:
 
-Given X>1 .txt documents, do the same, but do it fast. you can use several threads for the task.
+Given X>1 .txt documents, do the same, but do it fast. you can use several threads.
 
+
+## Look on:
+1. _ at start, _ at end
+2. LowerCase/UpperCase
+3. Split (with _) aka Tokenization
+4. Reading / closing file
+5. Data structure (hashmap) atomic
+6. Thread pool
 
 **sources:**
 1. Taboola mid-senior dev's home task
 2. [rosettacode](https://rosettacode.org/wiki/Word_frequency)
+
+
+
