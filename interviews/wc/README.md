@@ -2,11 +2,13 @@
 
 ## Part1:
 
-Given 1x .txt document with english words separated by [_], print word count and total count
+Given document path (1x) with english words separated by [_], print it word count and total count
 
-Example:
+Example of ``"words.txt"`` file:
 
-``"a______bbb_c_c__d_e"``
+``a______bbb_c``
+
+``c__d``
 
 => 
 
@@ -27,20 +29,19 @@ Print part 1 but in decreasing/ascending order - depend on given String ``["desc
 
 ## Part3:
 
-Given X>1 .txt documents, do the same, but do it fast. you can use several threads.
+Given X>1 .txt documents, do (1,2), but it should be fast.
 
 
 ## Look on:
-1. _ at start, _ at end
-2. LowerCase/UpperCase
-3. Split (with _) aka Tokenization
-4. Reading / closing file
-5. Data structure (hashmap) atomic
-6. Thread pool
+1. Verify code part 1-2, Part3 just speak on design.
+2. _ at start, _ at end (trim)
+3. can be duplicates on code (hashmap)
+4. LowerCase/UpperCase
+5. Split (with _) aka Tokenization
+6. Reading / closing file
+7. Time complexity: let w = #of_words, O(w), sorting is neglible
+8. Thread pool
 
 **sources:**
 1. Taboola mid-senior dev's home task
 2. [rosettacode](https://rosettacode.org/wiki/Word_frequency)
-
-
-
