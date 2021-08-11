@@ -5,11 +5,11 @@ We would like to build functionality of a ```one-tab-browser``` where you start 
 
 Implement the ```BrowserHistory class```, write code on IDEA (does not have to compile, and in any language).
 
-## part2:
-Support persistence - if user refreshes, back/forward are still functional
-
-## part 3:
+## part 2:
 Extend the solution to multi-tabs
+
+## part3:
+Support persistence - if user refreshes, back/forward are still functional
 
 
 ## notes:
