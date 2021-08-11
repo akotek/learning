@@ -2,9 +2,9 @@
 
 ## Part1:
 
-Given document path (1x) with english words separated by [_], print it word count and total count
+Given **document path** (1x) with english words separated by [_], print it word count and total count
 
-Example of ``"words.txt"`` file:
+Example:
 
 ``a______bbb_c``
 
