@@ -4,7 +4,7 @@
 
 Given **document path** (1x) with english words separated by [_], print it word count and total count
 
-Example:
+Example of "test/words.txt" path:
 
 ``a______bbb_c``
 
