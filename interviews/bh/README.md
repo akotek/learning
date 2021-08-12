@@ -1,5 +1,10 @@
 # Browser History Task:
 
+1. introduction
+2. coding q
+3. extra (optional)
+4. questions?
+
 ## part 1:
 We would like to build functionality of a ```one-tab-browser``` where you start on **the homepage**, can **visit** another url, get **back/forward** (1 or more steps) and **know your current url** (can be empty). 
 
