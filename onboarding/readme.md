@@ -1,7 +1,5 @@
 # On-boarding plan
 
-
-## idea:
 * **2 weeks**
 * **sproutt-task + coding course**: clojure/react basic exercises & sproutt task (bug, refactoring, small feature)
 * **validation-meetings (2x a week) / assigned mentor** (1:1 with dev, validate knowledge & support in the context of given exercises)
