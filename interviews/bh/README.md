@@ -18,7 +18,7 @@ Support persistence - if user refreshes, back/forward are still functional
 
 ## notes:
 1. what is stack, what are other data structures we have [linked list, arraylist], how they work in Java?
-2. edge case: when you back/visit - now forward history should be reseted (code in "visit" function should have that), steps>0 validation
+2. edge case: when you back/visit - now forward history should reset (code in "visit" function should have that), steps>0 validation
 3. options to solve Q: [linked_list, 2x stacks LIFO, array with idx]
 4. BrowserHistory(), visit(String url), back(int steps), forward(int steps), status()
 5. Persistence: Disk/DB? DB ```Table1[session_id, history(json-data structure)]``` Disk: write both stacks to File (each file == tab == session)
