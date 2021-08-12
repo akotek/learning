@@ -1,6 +1,4 @@
-# sproutt's knowledge base!
+# Recruitment stuff:
 
-includes:
-1. [onboarding new devs!!](onboarding)
-2. cheat-sheets
-3. internal-knowledge (soon..)
+1. [onboarding new devs](onboarding)
+2. [interviews (coding tasks, q's)](interviews)
