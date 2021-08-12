@@ -1,4 +1,4 @@
-# Sproutts on-boarding plan!!
+# On-boarding plan
 
 
 ## idea:
