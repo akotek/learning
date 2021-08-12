@@ -22,4 +22,3 @@ If front oriented - replace Clojure with Front
 ## do:
 1. **clojure**: [do](clj)
 2. **front-end**: [do](front)
-3. **product/architecture/system/logistics**: [do](misc)
