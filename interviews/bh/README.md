@@ -19,3 +19,24 @@ Support persistence - if user refreshes, back/forward are still functional
 5. Persistence: Disk/DB? DB ```Table1[session_id, history(json-data structure)]``` Disk: write both stacks to File (each file == tab == session)
 
 source: [leetcode](https://leetcode.com/problems/design-browser-history/)
+
+## extra:
+1. What is a Primary Key, what are the benefits of using it? what is composite key? what is foreign key? what are FK useful for?
+2. Streams in Java
+
+What is printed? why?
+```
+List<String> ids = students.stream() 
+    .filter(s - > { 
+        System.out.println("filter - " + s); 
+        return s.getAge() > 20; 
+    })
+    .map(s - > { 
+        System.out.println("map - " + s); 
+        return s.getName(); 
+    }) 
+    .limit(3) 
+    .collect(Collectors.toList());
+```
+4. Write a function that receives a json array of urls (strings), and returns an answer whether or not all urls are currently live and responsive
+5. Springframework: dependency injection? what is a framework? 
